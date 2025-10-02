@@ -20,7 +20,12 @@ Este site é um protótipo acadêmico que simula essa transição para o digital
 ## Site publicado
 Acesse o site no GitHub Pages: https://gabriel-ardito.github.io/Vinheria-Agnello/
 
-<img src="src/assets/imgs/estrutura.png" alt="Imagem da vinheria" width="300">
+---
+
+## 📂 Estrutura de Diretórios
+<img src="src/assets/imgs/estrutura.png" alt="Estrutura Diretório" width="300">
+
+---
 
 ## 🧭 Menu de Navegação
 Todas as páginas compartilham o mesmo **menu superior** e o **rodapé**, garantindo consistência de navegação e identidade visual:
