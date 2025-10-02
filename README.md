@@ -17,42 +17,10 @@ Este site é um protótipo acadêmico que simula essa transição para o digital
 
 ---
 
-## 📂 Estrutura de Diretórios
+## Site publicado
+Acesse o site no GitHub Pages: https://gabriel-ardito.github.io/Vinheria-Agnello/
 
-vinharia-agnello/
-│
-├── index.html              # Página inicial do site
-├── README.md               # Documentação do projeto
-│
-├── src/
-│   ├── assets/
-│   │   └── imgs/           # Pasta de imagens utilizadas no site
-│   │       ├── vinhariahp.jpg
-│   │       ├── vinho1.png
-│   │       ├── vinho2.jpg
-│   │       ├── vinho3.png
-│   │       ├── vinho4.png
-│   │       ├── vinho5.jpg
-│   │       ├── vinho6.jpg
-│   │       ├── vinho7.png
-│   │       ├── vinho8.jpg
-│   │       ├── vinho9.jpg
-│   │       ├── agradecemos.jpg
-│   │       └── vinheria-ambiente.jpg
-│   │
-│   ├── css/
-│   │   ├── style.css       # Estilos da página inicial
-│   │   ├── catalogo.css    # Estilos da página de catálogo
-│   │   ├── harmonia.css    # Estilos da página de harmonização
-│   │   ├── contato.css     # Estilos da página de contato
-│   │   └── sobre.css       # Estilos da página sobre nós
-│   │
-│   └── pages/
-│       ├── catalogo.html   # Catálogo de vinhos
-│       ├── harmonia.html   # Harmonizações
-│       ├── contato.html    # Página de contato
-│       └── sobre.html      # Sobre nós
----
+<img src="src/assets/imgs/estrutura.png" alt="Imagem da vinheria" width="300">
 
 ## 🧭 Menu de Navegação
 Todas as páginas compartilham o mesmo **menu superior** e o **rodapé**, garantindo consistência de navegação e identidade visual:
